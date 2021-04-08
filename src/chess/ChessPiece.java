@@ -5,6 +5,7 @@ import boardgame.Piece;
 
 public class ChessPiece extends Piece {
 
+	// Associations
 	private Color color;
 
 	// Constructors
